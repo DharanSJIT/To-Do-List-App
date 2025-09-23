@@ -2,6 +2,7 @@
   "expo": {
     "name": "to-do-list",
     "slug": "to-do-list",
+    "owner": "dharan_manickam_25",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,10 +21,22 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.dharan_manickam_25.todolist"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a882c13e-3568-4fe1-a121-3866f009a6a3"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/a882c13e-3568-4fe1-a121-3866f009a6a3"
     }
   }
 }

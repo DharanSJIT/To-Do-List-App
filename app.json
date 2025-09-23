@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "to-do-list",
+    "name": "To-Do-List",
     "slug": "to-do-list",
     "owner": "dharan_manickam_25",
     "version": "1.0.0",
@@ -22,7 +22,8 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.dharan_manickam_25.todolist"
+      "package": "com.dharan_manickam_25.todolist",
+      "icon": "./assets/icon.png"
     },
     "web": {
       "favicon": "./assets/favicon.png"

@@ -24,20 +24,6 @@ const { width } = Dimensions.get('window');
 
 // Theme definitions
 const lightTheme = {
-  background: '#F8F9FA',
-  surface: '#FFFFFF',
-  primary: '#4F46E5',
-  primaryLight: '#F3F4F6',
-  text: '#1A1A1A',
-  textSecondary: '#6B7280',
-  border: '#D1D5DB',
-  shadow: '#000',
-  accent: '#10B981',
-  danger: '#EF4444',
-  statusBar: 'dark-content'
-};
-
-const darkTheme = {
   background: '#0F172A',
   surface: '#1E293B',
   primary: '#6366F1',
@@ -49,6 +35,22 @@ const darkTheme = {
   accent: '#10B981',
   danger: '#EF4444',
   statusBar: 'light-content'
+};
+
+const darkTheme = {
+
+
+  background: '#F8F9FA',
+  surface: '#FFFFFF',
+  primary: '#4F46E5',
+  primaryLight: '#F3F4F6',
+  text: '#1A1A1A',
+  textSecondary: '#6B7280',
+  border: '#D1D5DB',
+  shadow: '#000',
+  accent: '#10B981',
+  danger: '#EF4444',
+  statusBar: 'dark-content'
 };
 
 const HomeScreen = () => {

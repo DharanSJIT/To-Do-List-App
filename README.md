@@ -2,7 +2,7 @@
 
 A modern, cross-platform task management application built with React Native and Expo. Stay organized and productive with an intuitive interface that adapts to your preferences.
 
-## ✨ Features
+##  Features
 
 - **Task Management**: Create, edit, and delete tasks with ease
 - **Task Completion**: Mark tasks as complete with visual feedback
@@ -69,15 +69,6 @@ A modern, cross-platform task management application built with React Native and
 - **Material Icons**: Icon library for UI elements
 
 
-## 🎨 Customization
-
-The app supports theming through the theme system defined in `HomeScreen.js`. You can customize:
-
-- Colors and color schemes
-- Typography and font sizes
-- Spacing and layout
-- Animation and transition effects
-
 ## 📦 Dependencies
 
 - `@expo/vector-icons`: Icon library
@@ -93,10 +84,6 @@ The app supports theming through the theme system defined in `HomeScreen.js`. Yo
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## 👨‍💻 Author
-
-**Dharan**
 
 ## 📞 Support
 
